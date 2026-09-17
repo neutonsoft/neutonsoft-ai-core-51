@@ -1,0 +1,4 @@
+task_0:
+  video_path: "data/test/face.png"
+  audio_path: "data/test/speech.wav"
+  result_name: "avatar_musetalk.mp4"

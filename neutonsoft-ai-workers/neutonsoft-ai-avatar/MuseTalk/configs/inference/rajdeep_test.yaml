@@ -1,0 +1,4 @@
+task_0:
+  video_path: data/test/rajdeep.mp4
+  audio_path: data/test/speech.wav
+  result_name: rajdeep_musetalk_v15.mp4
